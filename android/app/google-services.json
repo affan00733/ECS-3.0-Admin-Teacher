@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "364693118574",
+    "project_id": "ecs-v2",
+    "storage_bucket": "ecs-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364693118574:android:a63e052a4155d0d3ac107f",
+        "android_client_info": {
+          "package_name": "com.ecsv2admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364693118574-bojm3id4bakdp52l51p2k13q0msppvon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIo_xma8Uvvbt-Y5bhq7fMx0KI5Nk4XuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364693118574-bojm3id4bakdp52l51p2k13q0msppvon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364693118574:android:1c47887ca88685ddac107f",
+        "android_client_info": {
+          "package_name": "com.ecsv2adminteacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364693118574-bojm3id4bakdp52l51p2k13q0msppvon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIo_xma8Uvvbt-Y5bhq7fMx0KI5Nk4XuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364693118574-bojm3id4bakdp52l51p2k13q0msppvon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
